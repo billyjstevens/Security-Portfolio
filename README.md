@@ -2,7 +2,7 @@
 
 [Google Cybersecurity Certification](https://coursera.org/share/cabad3c0c97c1c798a2607e6924a7278)
 
-AAS Information Technology [Equivalent Knowledge](URL)
+[AAS Information Technology Equivalent Knowledge](URL)
 
 ### Blue Team
 - [Professional Statement](https://github.com/billyjstevens/Security-Portfolio/blob/main/Professional%20Statement)
